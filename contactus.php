@@ -296,7 +296,7 @@ mail($my_email,$subject,$message,$headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    TBA
+    Oct. 05, 2016
   </div>
 </div>
 
@@ -307,10 +307,11 @@ mail($my_email,$subject,$message,$headers);
 </div>
 </div>
 
+
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    TBA
+    Dec. 10, 2016
   </div>
 </div>
 
@@ -324,7 +325,7 @@ mail($my_email,$subject,$message,$headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    TBA
+    Feb. 01, 2017
   </div>
 </div>
 
@@ -334,6 +335,7 @@ mail($my_email,$subject,$message,$headers);
   </div>
 </div>
 </div>
+
   </div>
   </div>
 </div>
