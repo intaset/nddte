@@ -255,7 +255,7 @@ mail($my_email,$subject,$message,$headers);
       <p class="bold">NDDTE 2017:</p>
       <p class="body">NDDTE 2017 will  be held in Barcelona, Spain on April 5 - 6, 2017 at the Alimara Hotel Barcelona.</p>
     <p class="bold">Poster Board Dimensions:</p>
-      <p class="body">Authors presenting via poster boards are to be informed that poster boards are 110 cm height and 80 cm width.</p>
+      <p class="body">Authors presenting via poster boards are to be informed that poster boards are 130 cm height and 95 cm width.</p>
     </div>          
     <div>
       <h2 class="title">2</h2>
