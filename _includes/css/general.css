@@ -326,6 +326,12 @@ th {
 .border {
 	border-bottom: #CB2956 1px solid;
 }
+
+.keynoteIndex {
+    height: 200px;
+    padding-right: 1em;
+}
+
 /* HEADER & NAVIGATION */
 h1 {
 	font-family: 'Lato', sans-serif;
