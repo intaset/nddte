@@ -256,7 +256,17 @@ mail($my_email,$subject,$message,$headers);
       <p class="body">NDDTE 2017 will  be held in Barcelona, Spain on April 4 - 6, 2017 at the Alimara Hotel Barcelona.</p>
 
       <p class="bold">RAN'17 Workshop</p>
-      <p class="body">As per popular request, the organizing committee has decided to extend the RAN'17 congress to three days (now April 4 - 6, 2017). The new high-level schedule is as follows:</p>
+       <p class="body">International ASET Inc. is proud to present <b>Dr. Vladimir A. Baulin</b> (Universitat Rovira I Virgili, Spain) and <b>Prof. Elena P. Ivanova</b> (Swinburne University of Technology, Australia) as organizers of a dedicated workshop for the 2nd World Congress on Recent Advances in Nanotechnology (RAN'17).</p>
+
+      <cenet><p class="body" style="text-align: center!important;"><b>Topic of Workshop:</b> <i>Workshop on Nanostructured Surfaces</i></p>
+
+      <p class="body">The workshop will be held on <b>April 4th, 2017</b>. Registration for the workshop will be <i>121 EURs (VAT included)</i> and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here.</a></p>
+
+      <p class="body">For more information about the workshop and the speaker, please visit:  <a href="http://rancongress.com/#workshop" class="body-link" target="_blank">here.</a></p>
+      <br>
+      <p class="body" style="text-align: center!important;"><a class="body-link" href="http://rancongress.com/RAN17_Workshop.pdf" target="_blank"><b>Workshop Flyer</b></a></p>
+      <br>
+      <!-- <p class="body">As per popular request, the organizing committee has decided to extend the RAN'17 congress to three days (now April 4 - 6, 2017). The new high-level schedule is as follows:</p>
 
       <ul>
         <li>Day 1: Workshop(s) and Registration</li>
@@ -264,7 +274,7 @@ mail($my_email,$subject,$message,$headers);
         <li>Day 3: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
       </ul>
       
-      <p class="body">Registration for the workshop will be 121 EURs (VAT included) and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
+      <p class="body">Registration for the workshop will be 121 EURs (VAT included) and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p> -->
       
     <p class="bold">Poster Board Dimensions:</p>
       <p class="body">Authors presenting via poster boards are to be informed that poster boards are 130 cm height and 95 cm width.</p>
