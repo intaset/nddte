@@ -1705,6 +1705,10 @@ right: 180px;
      margin-right: 2%;
 	 padding-bottom: 12px;
 }
+.left {
+     margin-right: 2%;
+	 padding-bottom: 12px;
+}
 
 nav#slide-menu {
 right: -192px;
@@ -2178,6 +2182,33 @@ footer form {
     display: table; /* 2 */
 }
 
+.cf:after {
+    clear: both;
+}
+/*contact us*/
+.half {
+  float: left;
+  width: 48%;
+  margin-bottom: 1em;
+}
+.right { width: 50%; }
+.left {
+     margin-right: 2%; 
+}
+.full { width: 100%; }
+@media (max-width: 600px) {
+  .half {
+     width: 100%; 
+     float: none;
+     margin-bottom: 0; 
+  }
+}
+/* Clearfix */
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
 .cf:after {
     clear: both;
 }
