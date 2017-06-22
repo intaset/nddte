@@ -122,7 +122,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link href="../css/ffhmt.css" rel="stylesheet">
+<link href="../css/style.css" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic|Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
 <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
 <!--[if IE-9]><html lang="en" class="ie9"><![endif]-->
@@ -279,8 +279,8 @@ mail($your_email,$your_subject,$message,$your_headers);
     </div>
   <div>
       <h2 class="title">3</h2>
-      <p class="bold">Propose Exhibits, Workshops &amp; More</p>
-      <p class="body">NDDTE attracts a wide range of researchers in the field of nanomedicine, drug delivery, and tissue engineering. As a prominent company in the field of nanomedicine, drug delivery, and tissue engineering, we would like to offer you an exhibit at NDDTE. Please visit <a href="../events" class="body-link">Events</a> for more information.</p>
+      <p class="bold">Become a Sponsor or an Exhibitor</p>
+      <p class="body">NDDTE attracts a wide range of researchers in the field of nanomedicine, drug delivery, and tissue engineering. As a prominent company in the field of nanomedicine, drug delivery, and tissue engineering, we would like to offer you an exhibit at NDDTE. Please visit <a href="../sponsor" class="body-link">Sponsors</a> for more information.</p>
     </div>
   </div>
     </div>
@@ -301,22 +301,18 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
 
   <div class="unit unit-s-1 unit-m-1-3-1 unit-l-1-3-1">
-  <div class="unit-spacer">
-    <section class="main">
-        <div class="custom-calendar-wrap">
-          <div id="custom-inner" class="custom-inner">
-            <div class="custom-header clearfix">
-              <nav>
-                <span id="custom-prev" class="custom-prev"></span>
-                <span id="custom-next" class="custom-next"></span>
-              </nav>
-              <h2 id="custom-month" class="custom-month"></h2>
-              <h3 id="custom-year" class="custom-year"></h3>
-            </div>
-            <div id="calendar" class="fc-calendar-container"></div>
-          </div>
-        </div>
-      </section>
+
+<section class="main">
+
+  <ul class="side-bar-menu" style="padding:0px;">
+    <li><a href="../sponsor">Sponsors &amp; Exhibitors</a></li>
+    <li><a href="../symposium">Symposium &amp; Workshop</a></li>
+  </ul>
+
+</section>
+
+<br><br>
+
    <h2>Upcoming Dates</h2>
 
 <div class="grid events">
