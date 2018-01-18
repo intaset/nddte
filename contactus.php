@@ -40,7 +40,9 @@ mail($my_email,$subject,$message,$headers);
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link href="../css/style.css" rel="stylesheet">
-<link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic|Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+<!-- Google Fonts -->
+<link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700|Roboto:400,400i,700" rel="stylesheet">
 <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
 <!--[if IE-9]><html lang="en" class="ie9"><![endif]-->
 <script src='https://www.google.com/recaptcha/api.js'></script>
@@ -64,17 +66,16 @@ mail($my_email,$subject,$message,$headers);
   <h1>NDDTE'18</h1>
   <ul>
     <li><a href="/">Home</a></li>
-    <li><a href="../papers">Paper Submissions</a></li>
+    <li><a href="../papers">Submissions</a></li>
     <li><a href="../program">Program</a></li>
     <li><a href="../dates">Important Dates</a></li>
     <li><a href="../registration">Registration</a></li>
     <li><a href="../committee">Committee</a></li>
     <li><a href="../keynote">Keynotes</a></li>
-    <li><a href="../sponsor">Sponsors</a></li>
     <li><a href="../venue">Venue</a></li>
     <li><a href="../accommodation">Accommodation</a></li>
     <li><a href="../past-events">Past Events</a></li>
-    <li><a href="#contact">Contact Us</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ul>
 </nav>
 
@@ -84,7 +85,7 @@ mail($my_email,$subject,$message,$headers);
   <div class="cbp-af-inner">
     <a href="/"><img src="../img/logo.png" class="flex-logo"></a>
       <nav>
-        <a href="/">Home</a><p class="dot">&middot;</p><a href="../papers">Paper Submission</a><p class="dot">&middot;</p><a href="../program">Program</a><p class="dot">&middot;</p><a href="../dates">Important Dates</a><p class="dot">&middot;</p><a href="../registration">Registration</a><p class="dot">&middot;</p><a href="../committee">Committee</a><p class="dot">&middot;</p><a href="../keynote">Keynotes</a><p class="dot">&middot;</p><a href="../sponsor">Sponsors</a><p class="dot">&middot;</p><a href="../venue">Venue</a><p class="dot">&middot;</p><a href="../accommodation">Accommodation</a><p class="dot">&middot;</p><a href="../past-events">Past Events</a><p class="dot">&middot;</p><a href="#contact">Contact Us</a>
+        <a href="/">Home</a><p class="dot">&middot;</p><a href="../papers">Submissions</a><p class="dot">&middot;</p><a href="../program">Program</a><p class="dot">&middot;</p><a href="../dates">Important Dates</a><p class="dot">&middot;</p><a href="../registration">Registration</a><p class="dot">&middot;</p><a href="../committee">Committee</a><p class="dot">&middot;</p><a href="../keynote">Keynotes</a><p class="dot">&middot;</p><a href="../venue">Venue</a><p class="dot">&middot;</p><a href="../accommodation">Accommodation</a><p class="dot">&middot;</p><a href="../past-events">Past Events</a><p class="dot">&middot;</p><a href="#contact">Contact</a>
     </nav>
   </div>
 </div>
@@ -106,7 +107,7 @@ mail($my_email,$subject,$message,$headers);
           <h1>3<sup>rd</sup> International Conference on Nanomedicine,<br>Drug Delivery, and Tissue Engineering (NDDTE'18)</h1>
           <p class="subhead">April 10 - 12, 2018 | Budapest, Hungary</p>
 
-          <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
+          <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
         <div class="searchbox grid">
         <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
@@ -117,9 +118,9 @@ mail($my_email,$subject,$message,$headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div><br>
+</div>
 
-<p class="body" style="text-align:center!important;">NDDTE'18 is part of the <b>3<sup>rd</sup> World Congress on Recent Advances in Nanotechnology (RAN'18)</b>. For more information about the congress, please visit the website here: <a href="http://rancongress.com/" class="body-link">www.rancongress.com</a>.</p>
+
         </div>
     </div>
 
@@ -134,7 +135,7 @@ mail($my_email,$subject,$message,$headers);
           <h1>3<sup>rd</sup> International Conference on Nanomedicine,<br>Drug Delivery, and Tissue Engineering (NDDTE'18)</h1>
           <p class="subhead">April 10 - 12, 2018 | Budapest, Hungary</p>
 
-          <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
+          <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
         <div class="searchbox grid">
         <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
@@ -145,9 +146,9 @@ mail($my_email,$subject,$message,$headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div><br>
+</div>
 
-<p class="body" style="text-align:center!important; color: #FFF!important;">NDDTE'18 is part of the <b>3<sup>rd</sup> World Congress on Recent Advances in Nanotechnology (RAN'18)</b>.<br>For more information about the congress, please visit the website here: <a href="http://rancongress.com/" class="body-link">www.rancongress.com</a>.</p>
+
         </div>
         </div> 
       </div>
@@ -157,48 +158,7 @@ mail($my_email,$subject,$message,$headers);
   <div class="grid main-content">
   <div class="unit unit-s-1 unit-m-1-3-1 unit-l-1-3-1">
     <div class="unit-spacer">
-      <h2>Announcements</h2>
-      <div id="main-slider" class="liquid-slider">
-    <div>
-      <h2 class="title">1</h2>
-       <p class="bold">NDDTE 2018:</p>
-      <p class="body">NDDTE 2018 will  be held in Budapest, Hungary on April 10 - 12, 2018 at the Novotel Budapest Centrum.</p>
-
-      <p class="bold">RAN'18 Workshop</p>
-      <!--  <p class="body">International ASET Inc. is proud to present <b>Dr. Vladimir A. Baulin</b> (Universitat Rovira I Virgili, Spain) and <b>Prof. Elena P. Ivanova</b> (Swinburne University of Technology, Australia) as organizers of a dedicated workshop for the 2nd World Congress on Recent Advances in Nanotechnology (RAN'18).</p>
-
-      <cenet><p class="body" style="text-align: center!important;"><b>Topic of Workshop:</b> <i>Workshop on Nanostructured Surfaces</i></p>
-
-      <p class="body">The workshop will be held on <b>April 4th, 2017</b>. Registration for the workshop will be <i>121 EURs (VAT included)</i> and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here.</a></p>
-
-      <p class="body">For more information about the workshop and the speaker, please visit:  <a href="http://rancongress.com/#workshop" class="body-link" target="_blank">here.</a></p>
-      <br>
-      <p class="body" style="text-align: center!important;"><a class="body-link" href="http://rancongress.com/RAN17_Workshop.pdf" target="_blank"><b>Workshop Flyer</b></a></p>
-      <br> -->
-      <p class="body">As per popular request, the organizing committee has decided to extend the NDDTE'18 Conference to three days (April 10 - 12, 2017). The new high-level schedule is as follows:</p>
-
-      <ul>
-        <li>Day 1: Workshop(s) and Registration</li>
-        <li>Day 2: Main Track Conference Sessions</li>
-        <li>Day 3: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
-      </ul>
       
-      <p class="body">Registration for the workshop will be <!-- 121 EURs (VAT included) and  -->separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
-      <br>
-    <p class="bold">Poster Board Dimensions:</p>
-      <p class="body">Authors presenting via poster boards are to be informed that poster boards are 110 cm height and 70 cm width.</p> 
-    </div>          
-    <div>
-      <h2 class="title">2</h2>
-      <p class="bold">Best Paper Award:</p>
-      <p class="body">Two best paper awards will be conferred to author(s) of the papers that receive the highest rank during the peer-review and by the respected session chairs. Please visit <a href="../papers" class="body-link">Paper Submission</a> for more information.</p>
-    </div>
-  <div>
-      <h2 class="title">3</h2>
-      <p class="bold">Become a Sponsor or an Exhibitor</p>
-      <p class="body">NDDTE attracts a wide range of researchers in the field of nanomedicine, drug delivery, and tissue engineering. As a prominent company in the field of nanomedicine, drug delivery, and tissue engineering, we would like to offer you an exhibit at NDDTE. Please visit <a href="../sponsor" class="body-link">Sponsors</a> for more information.</p>
-    </div>
-  </div>
     </div>
   </div>
 
@@ -211,65 +171,6 @@ mail($my_email,$subject,$message,$headers);
 
   <div class="unit unit-s-1 unit-m-1-3-1 unit-l-1-3-1">
   <div class="unit-spacer">
-
-<section class="main">
-
-  <ul class="side-bar-menu" style="padding:0px;">
-    <li><a href="../sponsor">Sponsors &amp; Exhibitors</a></li>
-    <li><a href="../symposium">Symposium &amp; Workshop</a></li>
-  </ul>
-
-</section>
-
-<br><br>
-
-<h2>Upcoming Dates</h2>
-
-<div class="grid events">
-<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
-  <div class="date">
-    <div class="past">Oct. 12, 17</div> <strong>Feb. 1, 2018</strong>
-  </div>
-</div>
-
-<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
-  <div class="unit-spacer">
-    <div class="past past-text">Final Regular Registration</div> <strong>Extended Paper Submission Deadline</strong>
-  </div>
-</div>
-</div>
-
-<div class="grid events">
-<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
-  <div class="date">
-    <div class="past">Nov. 2, 17</div> <strong>Feb. 8, 2018</strong>
-  </div>
-</div>
-
-<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
-  <div class="unit-spacer">
-    <div class="past past-text">Notification to Authors</div> <strong>Extended Notification to Authors</strong>
-  </div>
-</div>
-</div>
-
-<div class="grid events">
-<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
-  <div class="date">
-    <div class="past">Nov. 16, 17</div> <strong>Feb. 20, 2018</strong>
-  </div>
-</div>
-
-<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
-  <div class="unit-spacer">
-    <div class="past past-text">Early-Bird Registration</div> <strong>Extended Early-Bird Registration</strong>
-  </div>
-</div>
-</div>
-
-
-
-
 
   </div>
   </div>
