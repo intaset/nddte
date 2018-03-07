@@ -1,3 +1,3 @@
-Sitemap: http://www.nddte.com/sitemap.xml
+Sitemap: http://www.2019.nddte.com/sitemap.xml
 
 User-agent: *
