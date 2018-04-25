@@ -1,232 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
-<!-- www.check-domains.com sitemap generator -->
 
-<url>
-   <loc>http://2019.nddte.com/</loc>
-   <lastmod>2018-02-12T18:21:24+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>1.0000</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/past-events/</loc>
-   <lastmod>2018-02-12T18:21:23+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/papers/</loc>
-   <lastmod>2018-02-12T18:21:23+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/program/</loc>
-   <lastmod>2018-02-12T18:21:23+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/dates/</loc>
-   <lastmod>2018-02-12T18:21:24+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/registration/</loc>
-   <lastmod>2018-02-12T18:21:23+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/committee/</loc>
-   <lastmod>2018-02-12T18:21:24+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/keynote/</loc>
-   <lastmod>2018-02-12T18:21:24+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/venue/</loc>
-   <lastmod>2018-02-26T21:06:18+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/accommodation/</loc>
-   <lastmod>2018-02-26T21:05:49+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/sponsor/</loc>
-   <lastmod>2018-02-12T18:21:23+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/symposium/</loc>
-   <lastmod>2018-02-12T18:21:23+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/past-events/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/terms/</loc>
-   <lastmod>2018-02-12T18:21:22+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/sitemap/</loc>
-   <lastmod>2018-02-12T18:21:23+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/NDDTE19_Paper_Template.docx</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/NDDTE19_Extended_Abstract.docx</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/NDDTE18_CopyrightForm.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/papers/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-   <loc>http://2019.nddte.com/program/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/dates/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/registration/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/committee/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/keynote/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/venue/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/accommodation/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/sponsor/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/symposium/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/terms/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/sitemap/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/banktobank/</loc>
-   <lastmod>2018-02-12T18:21:24+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.4096</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/moneyorder/</loc>
-   <lastmod>2018-02-12T18:21:24+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.4096</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/paypal/</loc>
-   <lastmod>2018-02-12T18:21:23+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.4096</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/banktobank/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.3277</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/moneyorder/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.3277</priority>
-</url>
-<url>
-   <loc>http://2019.nddte.com/paypal/RAN19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-07T15:44:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.3277</priority>
-</url>
+   <url>
+
+      <loc>http://www.nddte.com/index.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+  <url>
+
+      <loc>http://www.nddte.com/papers.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.nddte.com/program.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.nddte.com/dates.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.nddte.com/registration.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.nddte.com/committee.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.nddte.com/keynote.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.nddte.com/sponsor.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.nddte.com/venue.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.nddte.com/accommodation.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.nddte.com/symposium.html</loc>
+
+      <lastmod>2018-04-25</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
 </urlset>
